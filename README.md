@@ -6,7 +6,7 @@ A fun and responsive landing page for a fictional dog dating app — **TinDog**.
 
 ## 🌐 Live Demo
 
-> Coming soon / [View Live](#) 
+> https://sandeepkhanna13.github.io/tindog/
 
 ---
 
